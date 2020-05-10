@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="MercuryTours">
+	<listeners>
+		<listener class-name="com.MercuryTours.utilities.Reporting" />
+	</listeners>
+
+	<test name="MercuryTours">
+
+		<classes>
+			<!-- <class name="com.MercuryTours.testCases.TC_LoginTest" /> -->
+			<class name="com.MercuryTours.testCases.TC_RegisterTest" />
+
+		</classes>
+
+	</test>
+
+</suite>

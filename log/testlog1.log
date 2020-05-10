@@ -1,0 +1,155 @@
+2020-05-08 19:00:58,265 [main] INFO MercuryTours - URL is Opened 
+2020-05-08 19:01:01,876 [main] INFO MercuryTours - Sign up option is clicked 
+2020-05-08 19:01:02,116 [main] INFO MercuryTours - Entered Username 
+2020-05-08 19:01:02,363 [main] INFO MercuryTours - Entered Password 
+2020-05-08 19:01:05,435 [main] INFO MercuryTours - Clicked on login button
+2020-05-08 19:01:05,443 [main] INFO MercuryTours - opened fight resigter page 1
+2020-05-08 19:01:05,566 [main] INFO MercuryTours - Choosed one way flight option
+2020-05-08 19:01:05,683 [main] INFO MercuryTours - Choosed round trip flight option
+2020-05-08 19:01:05,781 [main] INFO MercuryTours - Choosed No of Passengers
+2020-05-08 19:01:05,868 [main] INFO MercuryTours - Choosed Departure Location
+2020-05-08 19:01:05,959 [main] INFO MercuryTours - Chossed month of departure
+2020-05-08 19:01:06,045 [main] INFO MercuryTours - Choosed day of departure
+2020-05-08 19:01:06,132 [main] INFO MercuryTours - Choosed the desinatation locaion
+2020-05-08 19:01:06,220 [main] INFO MercuryTours - Choosed month of return
+2020-05-08 19:01:06,306 [main] INFO MercuryTours - Choosed day of return
+2020-05-08 19:01:06,414 [main] INFO MercuryTours - Chosed which class i want to seat
+2020-05-08 19:01:06,499 [main] INFO MercuryTours - Choosed the airlines 
+2020-05-08 19:01:10,641 [main] INFO MercuryTours - Clicked on Continue
+2020-05-08 19:01:10,645 [main] INFO MercuryTours - Went to second page
+2020-05-08 19:01:10,778 [main] INFO MercuryTours - Choosed specific time flight for departure
+2020-05-08 19:01:10,909 [main] INFO MercuryTours - Choosed specific time flight for return
+2020-05-08 19:01:12,364 [main] INFO MercuryTours - Clicked on Continue of second page
+2020-05-08 19:01:12,371 [main] INFO MercuryTours - Went to last page
+2020-05-08 19:01:12,613 [main] INFO MercuryTours - Entered FirstName
+2020-05-08 19:01:12,805 [main] INFO MercuryTours - Entered Lastname
+2020-05-08 19:01:12,910 [main] INFO MercuryTours - Clossed Meal option
+2020-05-08 19:01:13,014 [main] INFO MercuryTours - Choosed card type for payment
+2020-05-08 19:01:13,300 [main] INFO MercuryTours - Entered Contact Number
+2020-05-08 19:01:13,400 [main] INFO MercuryTours - Entered expiry month
+2020-05-08 19:01:13,502 [main] INFO MercuryTours - Entered expiry year
+2020-05-08 19:01:13,704 [main] INFO MercuryTours - Enter account holders first name
+2020-05-08 19:01:13,831 [main] INFO MercuryTours - Middle name left blank
+2020-05-08 19:01:14,008 [main] INFO MercuryTours - Enterd account holders last name
+2020-05-08 19:01:14,293 [main] INFO MercuryTours - Entered billing address 
+2020-05-08 19:04:52,672 [main] INFO MercuryTours - URL is Opened 
+2020-05-08 19:04:56,087 [main] INFO MercuryTours - Sign up option is clicked 
+2020-05-08 19:04:56,333 [main] INFO MercuryTours - Entered Username 
+2020-05-08 19:04:56,577 [main] INFO MercuryTours - Entered Password 
+2020-05-08 19:04:59,650 [main] INFO MercuryTours - Clicked on login button
+2020-05-08 19:04:59,656 [main] INFO MercuryTours - opened fight resigter page 1
+2020-05-08 19:04:59,781 [main] INFO MercuryTours - Choosed one way flight option
+2020-05-08 19:04:59,905 [main] INFO MercuryTours - Choosed round trip flight option
+2020-05-08 19:05:00,003 [main] INFO MercuryTours - Choosed No of Passengers
+2020-05-08 19:05:00,100 [main] INFO MercuryTours - Choosed Departure Location
+2020-05-08 19:05:00,191 [main] INFO MercuryTours - Chossed month of departure
+2020-05-08 19:05:00,278 [main] INFO MercuryTours - Choosed day of departure
+2020-05-08 19:05:00,363 [main] INFO MercuryTours - Choosed the desinatation locaion
+2020-05-08 19:05:00,446 [main] INFO MercuryTours - Choosed month of return
+2020-05-08 19:05:00,523 [main] INFO MercuryTours - Choosed day of return
+2020-05-08 19:05:00,646 [main] INFO MercuryTours - Chosed which class i want to seat
+2020-05-08 19:05:00,728 [main] INFO MercuryTours - Choosed the airlines 
+2020-05-08 19:05:04,826 [main] INFO MercuryTours - Clicked on Continue
+2020-05-08 19:05:04,830 [main] INFO MercuryTours - Went to second page
+2020-05-08 19:05:04,964 [main] INFO MercuryTours - Choosed specific time flight for departure
+2020-05-08 19:05:05,099 [main] INFO MercuryTours - Choosed specific time flight for return
+2020-05-08 19:05:06,532 [main] INFO MercuryTours - Clicked on Continue of second page
+2020-05-08 19:05:06,541 [main] INFO MercuryTours - Went to last page
+2020-05-08 19:05:06,788 [main] INFO MercuryTours - Entered FirstName
+2020-05-08 19:05:06,960 [main] INFO MercuryTours - Entered Lastname
+2020-05-08 19:05:07,068 [main] INFO MercuryTours - Clossed Meal option
+2020-05-08 19:05:07,178 [main] INFO MercuryTours - Choosed card type for payment
+2020-05-08 19:05:07,463 [main] INFO MercuryTours - Entered Contact Number
+2020-05-08 19:05:07,561 [main] INFO MercuryTours - Entered expiry month
+2020-05-08 19:05:07,657 [main] INFO MercuryTours - Entered expiry year
+2020-05-08 19:05:07,880 [main] INFO MercuryTours - Enter account holders first name
+2020-05-08 19:05:08,007 [main] INFO MercuryTours - Middle name left blank
+2020-05-08 19:05:08,176 [main] INFO MercuryTours - Enterd account holders last name
+2020-05-08 19:05:08,451 [main] INFO MercuryTours - Entered billing address 
+2020-05-08 19:05:08,579 [main] INFO MercuryTours - Ticked on copy address
+2020-05-08 19:05:08,901 [main] INFO MercuryTours - Entered delivery address
+2020-05-08 19:05:13,135 [main] INFO MercuryTours - clicked on secure purchase
+2020-05-08 19:57:40,876 [main] INFO MercuryTours - URL is Opened 
+2020-05-08 19:57:44,482 [main] INFO MercuryTours - Sign up option is clicked 
+2020-05-08 19:57:44,732 [main] INFO MercuryTours - Entered Username 
+2020-05-08 19:57:45,011 [main] INFO MercuryTours - Entered Password 
+2020-05-08 19:57:48,027 [main] INFO MercuryTours - Clicked on login button
+2020-05-08 19:57:48,038 [main] INFO MercuryTours - opened fight resigter page 1
+2020-05-08 19:57:48,147 [main] INFO MercuryTours - Choosed one way flight option
+2020-05-08 19:57:48,258 [main] INFO MercuryTours - Choosed round trip flight option
+2020-05-08 19:57:48,346 [main] INFO MercuryTours - Choosed No of Passengers
+2020-05-08 19:57:48,435 [main] INFO MercuryTours - Choosed Departure Location
+2020-05-08 19:57:48,520 [main] INFO MercuryTours - Chossed month of departure
+2020-05-08 19:57:48,601 [main] INFO MercuryTours - Choosed day of departure
+2020-05-08 19:57:48,679 [main] INFO MercuryTours - Choosed the desinatation locaion
+2020-05-08 19:57:48,828 [main] INFO MercuryTours - Choosed month of return
+2020-05-08 19:57:48,902 [main] INFO MercuryTours - Choosed day of return
+2020-05-08 19:57:49,008 [main] INFO MercuryTours - Chosed which class i want to seat
+2020-05-08 19:57:49,086 [main] INFO MercuryTours - Choosed the airlines 
+2020-05-08 19:57:53,185 [main] INFO MercuryTours - Clicked on Continue
+2020-05-08 19:57:53,194 [main] INFO MercuryTours - Went to second page
+2020-05-08 19:57:53,320 [main] INFO MercuryTours - Choosed specific time flight for departure
+2020-05-08 19:57:53,461 [main] INFO MercuryTours - Choosed specific time flight for return
+2020-05-08 19:57:54,878 [main] INFO MercuryTours - Clicked on Continue of second page
+2020-05-08 19:57:54,883 [main] INFO MercuryTours - Went to last page
+2020-05-08 19:57:55,144 [main] INFO MercuryTours - Entered FirstName
+2020-05-08 19:57:55,334 [main] INFO MercuryTours - Entered Lastname
+2020-05-08 19:57:55,454 [main] INFO MercuryTours - Clossed Meal option
+2020-05-08 19:57:55,562 [main] INFO MercuryTours - Choosed card type for payment
+2020-05-08 19:57:55,875 [main] INFO MercuryTours - Entered Contact Number
+2020-05-08 19:57:55,976 [main] INFO MercuryTours - Entered expiry month
+2020-05-08 19:57:56,076 [main] INFO MercuryTours - Entered expiry year
+2020-05-08 19:57:56,275 [main] INFO MercuryTours - Enter account holders first name
+2020-05-08 19:57:56,402 [main] INFO MercuryTours - Middle name left blank
+2020-05-08 19:57:56,576 [main] INFO MercuryTours - Enterd account holders last name
+2020-05-08 19:57:56,866 [main] INFO MercuryTours - Entered billing address 
+2020-05-08 19:57:56,993 [main] INFO MercuryTours - Ticked on copy address
+2020-05-08 19:57:57,315 [main] INFO MercuryTours - Entered delivery address
+2020-05-08 19:58:01,464 [main] INFO MercuryTours - clicked on secure purchase
+2020-05-08 19:58:02,297 [main] INFO MercuryTours - Back to flight register page clicked
+2020-05-08 20:04:26,825 [main] INFO MercuryTours - URL is Opened 
+2020-05-08 20:04:30,296 [main] INFO MercuryTours - Sign up option is clicked 
+2020-05-08 20:04:30,476 [main] INFO MercuryTours - Entered Username 
+2020-05-08 20:04:30,733 [main] INFO MercuryTours - Entered Password 
+2020-05-08 20:04:33,847 [main] INFO MercuryTours - Clicked on login button
+2020-05-08 20:04:33,855 [main] INFO MercuryTours - opened fight resigter page 1
+2020-05-08 20:04:33,967 [main] INFO MercuryTours - Choosed one way flight option
+2020-05-08 20:04:34,079 [main] INFO MercuryTours - Choosed round trip flight option
+2020-05-08 20:04:34,163 [main] INFO MercuryTours - Choosed No of Passengers
+2020-05-08 20:04:34,249 [main] INFO MercuryTours - Choosed Departure Location
+2020-05-08 20:04:34,360 [main] INFO MercuryTours - Chossed month of departure
+2020-05-08 20:04:34,446 [main] INFO MercuryTours - Choosed day of departure
+2020-05-08 20:04:34,545 [main] INFO MercuryTours - Choosed the desinatation locaion
+2020-05-08 20:04:34,627 [main] INFO MercuryTours - Choosed month of return
+2020-05-08 20:04:34,705 [main] INFO MercuryTours - Choosed day of return
+2020-05-08 20:04:34,818 [main] INFO MercuryTours - Chosed which class i want to seat
+2020-05-08 20:04:34,897 [main] INFO MercuryTours - Choosed the airlines 
+2020-05-08 20:04:39,000 [main] INFO MercuryTours - Clicked on Continue
+2020-05-08 20:04:39,004 [main] INFO MercuryTours - Went to second page
+2020-05-08 20:04:39,149 [main] INFO MercuryTours - Choosed specific time flight for departure
+2020-05-08 20:04:39,303 [main] INFO MercuryTours - Choosed specific time flight for return
+2020-05-08 20:04:40,742 [main] INFO MercuryTours - Clicked on Continue of second page
+2020-05-08 20:04:40,748 [main] INFO MercuryTours - Went to last page
+2020-05-08 20:04:41,013 [main] INFO MercuryTours - Entered FirstName
+2020-05-08 20:04:41,190 [main] INFO MercuryTours - Entered Lastname
+2020-05-08 20:04:41,299 [main] INFO MercuryTours - Clossed Meal option
+2020-05-08 20:04:41,408 [main] INFO MercuryTours - Choosed card type for payment
+2020-05-08 20:04:41,697 [main] INFO MercuryTours - Entered Contact Number
+2020-05-08 20:04:41,800 [main] INFO MercuryTours - Entered expiry month
+2020-05-08 20:04:41,899 [main] INFO MercuryTours - Entered expiry year
+2020-05-08 20:04:42,114 [main] INFO MercuryTours - Enter account holders first name
+2020-05-08 20:04:42,243 [main] INFO MercuryTours - Middle name left blank
+2020-05-08 20:04:42,420 [main] INFO MercuryTours - Enterd account holders last name
+2020-05-08 20:04:42,707 [main] INFO MercuryTours - Entered billing address 
+2020-05-08 20:04:42,843 [main] INFO MercuryTours - Ticked on copy address
+2020-05-08 20:04:43,147 [main] INFO MercuryTours - Entered delivery address
+2020-05-08 20:04:47,412 [main] INFO MercuryTours - clicked on secure purchase
+2020-05-08 20:04:48,291 [main] INFO MercuryTours - Back to flight register page clicked
+2020-05-09 10:34:21,682 [main] INFO MercuryTours - URL is Opened 
+2020-05-09 10:34:22,682 [main] INFO MercuryTours - Sign up option is clicked 
+2020-05-09 10:34:22,960 [main] INFO MercuryTours - Entered Username 
+2020-05-09 10:34:23,291 [main] INFO MercuryTours - Entered Password 
+2020-05-09 10:34:26,233 [main] INFO MercuryTours - Clicked on login button
+2020-05-09 10:34:27,396 [main] INFO MercuryTours -  Suessfully logged in and clicked Hotels option
+2020-05-09 10:34:28,348 [main] INFO MercuryTours - Clicked Hotels option
+2020-05-09 10:34:29,270 [main] INFO MercuryTours - Clicked Flights option
