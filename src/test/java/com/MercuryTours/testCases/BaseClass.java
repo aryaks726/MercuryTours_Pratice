@@ -24,12 +24,19 @@ public class BaseClass {
 		logger  = Logger.getLogger("MercuryTours");
 		PropertyConfigurator.configure("Log4j.properties");//logger configured
 		String projectPath = System.getProperty("user.dir");
-		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver/chromedriver.exe");
-		driver = new ChromeDriver();
+		
+		//for chrome browser
+		/*System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver/chromedriver.exe");
+		driver = new ChromeDriver();*/
+
+                //for Firefox browser
+                System.setProperty("webdriver.gecko.driver", "./drivers/geckodriver/geckodriver.exe");
+                driver = new FirefoxDriver();
+		
 	}
 	@AfterClass
 	public void teardown() {
-		/* driver.quit(); */
+		  driver.quit(); 
 	}
 	
 }
