@@ -36,10 +36,10 @@ public class Reporting extends TestListenerAdapter
 		
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("Host name","localhost");
-		extent.setSystemInfo("Environemnt","QA");
+		extent.setSystemInfo("Environment","QA");
 		extent.setSystemInfo("user","arya");
 		
-		htmlReporter.config().setDocumentTitle("MErcury Tours Pratice"); // Tile of report
+		htmlReporter.config().setDocumentTitle("Mercury Tours Pratice"); // Tile of report
 		htmlReporter.config().setReportName(" Test Automation Pratice Report"); // name of the report
 		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); //location of the chart
 		htmlReporter.config().setTheme(Theme.DARK);
